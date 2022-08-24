@@ -155,3 +155,5 @@ def record_csv(complete_list: list, file_name: str) -> str:
 
 if __name__ == "__main__":
     main()
+
+    
