@@ -22,4 +22,3 @@ STAHUJI DATA Z VYBRANEHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkra
 UKLADAM DO SOUBORU: Prostejov_volby.csv
 
 UKONCUJI election-scraper
-
