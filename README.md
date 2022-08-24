@@ -14,3 +14,9 @@ python election_scraper.py "https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=
 Vysledky hlasovani pro vybrany okres Prostejov
   1. argument:"https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103"
   2. argument: "Prostejov_volby.csv"
+
+Prubeh stahovani:
+
+  STAHUJI DATA Z VYBRANEHO URL: https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnuts=7103
+  UKLADAM DO SOUBORU: Prostejov_volby.csv
+  UKONCUJI election-scraper
